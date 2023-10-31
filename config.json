@@ -8,5 +8,7 @@
         "https://www.52pojie.cn/forum.php?mod=guide&view=hot&rss=1",        
     ],
     "refresh": 2,
-    "autoUpdatePush": 1
+    "autoUpdatePush": 1,
+    "nightStartTime": "00:40:00",
+    "nightEndTime": "00:30:00"
 }
