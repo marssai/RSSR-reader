@@ -1,12 +1,12 @@
 {
     "values": [
         "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg",
-        "https://www.nodeseek.com/rss.xml",        
+        "https://nodeseek.com/rss.xml",        
         "https://v2ex.com/feed/tab/all.xml",        
         "https://www.52pojie.cn/forum.php?mod=guide&view=hot&rss=1"
     ],
     "refresh": 2,
     "autoUpdatePush": 1,
-    "nightStartTime": "04:30:00",
-    "nightEndTime": "01:00:00"
+    "nightStartTime": "16:30:00",
+    "nightEndTime": "22:00:00"
 }
