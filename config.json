@@ -1,18 +1,12 @@
 {
     "values": [
-        "https://www.zhihu.com/rss",
-        "https://tech.meituan.com/feed/",
-        "http://www.ruanyifeng.com/blog/atom.xml",
+        "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg",
+        "https://www.nodeseek.com/rss.xml",
+        "https://v2hot.pipecraft.net/all/rss.xml",
+        "https://v2ex.com/feed/tab/all.xml",
         "https://feeds.appinn.com/appinns/",
-        "https://v2ex.com/feed/tab/tech.xml",
-        "http://www.sciencenet.cn/xml/blog.aspx?di=30",
-        "https://www.douban.com/feed/review/book",
-        "https://www.douban.com/feed/review/movie",
-        "https://www.geekpark.net/rss",
-        "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg"
+        "https://www.52pojie.cn/forum.php?mod=guide&view=hot&rss=1",        
     ],
-    "refresh": 6,
-    "autoUpdatePush": 7,
-    "nightStartTime": "06:30:00",
-    "nightEndTime": "19:30:00"
+    "refresh": 2,
+    "autoUpdatePush": 1
 }
