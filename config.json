@@ -7,6 +7,6 @@
     ],
     "refresh": 2,
     "autoUpdatePush": 1,
-    "nightStartTime": "00:30:00",
-    "nightEndTime": "00:40:00"
+    "nightStartTime": "04:30:00",
+    "nightEndTime": "01:00:00"
 }
