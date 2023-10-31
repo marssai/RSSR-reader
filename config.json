@@ -5,7 +5,7 @@
         "https://v2hot.pipecraft.net/all/rss.xml",
         "https://v2ex.com/feed/tab/all.xml",
         "https://feeds.appinn.com/appinns/",
-        "https://www.52pojie.cn/forum.php?mod=guide&view=hot&rss=1",
+        "https://www.52pojie.cn/forum.php?mod=guide&view=hot&rss=1"
     ],
     "refresh": 2,
     "autoUpdatePush": 1,
